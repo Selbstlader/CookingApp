@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "type": "home",
+      "navigationBarTitleText": "烹飪社區",
+      "navigationStyle": "custom",
+      "style": {
+        "navigationBarTitleText": "烹飪社區",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/cart/index",
+      "type": "page",
+      "navigationBarTitleText": "购物车",
+      "navigationStyle": "default",
+      "style": {}
+    },
+    {
+      "path": "pages/home/auth",
+      "type": "page",
+      "style": {
+        "navigationBarTitleText": "登录注册"
+      }
+    },
+    {
+      "path": "pages/home/settings",
+      "type": "page",
+      "navigationBarTitleText": "個人設置",
+      "navigationStyle": "default",
+      "style": {
+        "navigationBarTitleText": "個人設置",
+        "navigationStyle": "default"
+      }
+    },
+    {
+      "path": "pages/search/index",
+      "type": "page",
+      "navigationBarTitleText": "搜索",
+      "navigationStyle": "default",
+      "style": {
+        "navigationBarTitleText": "搜索菜谱",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "@bgColor",
+    "backgroundColorBottom": "@bgColorBottom",
+    "backgroundColorTop": "@bgColorTop",
+    "backgroundTextStyle": "@bgTxtStyle",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTextStyle": "@navTxtStyle",
+    "navigationBarTitleText": "Vitesse-Uni",
+    "navigationStyle": "custom"
+  },
+  "__esModule": true,
+  "subPackages": []
+}

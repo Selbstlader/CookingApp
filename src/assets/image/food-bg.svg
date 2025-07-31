@@ -1,0 +1,16 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="url(#gradient)"/>
+<!-- 美食元素 -->
+<circle cx="100" cy="80" r="30" fill="#8B4513" opacity="0.8"/>
+<rect x="80" y="60" width="40" height="40" rx="5" fill="#D2691E" opacity="0.7"/>
+<circle cx="300" cy="120" r="25" fill="#FF6347" opacity="0.6"/>
+<ellipse cx="200" cy="200" rx="35" ry="20" fill="#32CD32" opacity="0.5"/>
+<circle cx="320" cy="220" r="20" fill="#FFD700" opacity="0.7"/>
+<rect x="50" y="180" width="30" height="30" rx="15" fill="#FF69B4" opacity="0.6"/>
+<defs>
+<radialGradient id="gradient" cx="50%" cy="30%" r="70%">
+<stop offset="0%" style="stop-color:#ff8f65;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#ff6b35;stop-opacity:1" />
+</radialGradient>
+</defs>
+</svg>
